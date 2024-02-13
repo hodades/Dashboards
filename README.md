@@ -11,7 +11,7 @@ This repository is organized into multiple folders, each representing a separate
 ### Navigating the Repository
 
 - **Project1**: London Population Predictions.
-  - `/Project1/dataset`: Contains the dataset used for London Population Predictions.
+  - `Dataset`: Contains the dataset used for London Population Predictions.
   - `/Project1/dashboard`: Access instructions or files related to London Population Predictions dashboard.
   - **London Datastore**: For more information and datasets, visit [London Datastore](https://data.london.gov.uk/).
   - Access the dataset at [Data.World](https://data.world/makeovermonday/2019w40).
